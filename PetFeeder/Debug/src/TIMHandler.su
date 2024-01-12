@@ -1,0 +1,8 @@
+/home/franco/Documentos/Trabajo Final/CMSISv2p00_LPC17xx/inc/core_cm3.h:928:22:NVIC_EnableIRQ	16	static
+/home/franco/Documentos/Trabajo Final/CMSISv2p00_LPC17xx/inc/core_cm3.h:941:22:NVIC_DisableIRQ	16	static
+../src/TIMHandler.c:11:6:TIMER0_IRQHandler	8	static
+../src/TIMHandler.c:17:6:TIMER1_IRQHandler	8	static
+../src/TIMHandler.c:23:6:TIMER2_IRQHandler	8	static
+../src/TIMHandler.c:29:6:TIMER3_IRQHandler	8	static
+../src/TIMHandler.c:35:5:timer_add_handler	16	static
+../src/TIMHandler.c:63:5:timer_remove_handler	16	static

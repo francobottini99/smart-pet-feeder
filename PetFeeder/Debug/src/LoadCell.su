@@ -1,0 +1,15 @@
+../src/LoadCell.c:57:6:loadcell_measuring_handler	8	static
+../src/LoadCell.c:100:5:loadcell_is_ready	8	static
+../src/LoadCell.c:105:6:loadcell_sck_pin_toggle	8	static
+../src/LoadCell.c:113:6:loadcell_calculate_tare	32	static
+../src/LoadCell.c:132:6:loadcell_calculate_scale	32	static
+../src/LoadCell.c:155:6:loadcell_timer_config	8	static
+../src/LoadCell.c:174:6:loadcell_pin_config	8	static
+../src/LoadCell.c:199:6:loadcell_init	32	static
+../src/LoadCell.c:227:9:loadcell_read	16	static
+../src/LoadCell.c:242:6:loadcell_start_tare	16	static
+../src/LoadCell.c:251:6:loadcell_start_calibrate	16	static
+../src/LoadCell.c:261:5:is_loadcell_in_tare	4	static
+../src/LoadCell.c:266:5:is_loadcell_in_scale	4	static
+../src/LoadCell.c:271:5:is_loadcell_set_scale	4	static
+../src/LoadCell.c:276:6:loadcell_start_measuring	8	static

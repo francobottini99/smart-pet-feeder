@@ -1,0 +1,2 @@
+../src/Utils.c:3:9:int_to_ascii_str	32	static
+../src/Utils.c:34:6:fill_str	24	static

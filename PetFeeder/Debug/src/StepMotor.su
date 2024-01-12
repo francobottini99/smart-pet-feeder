@@ -1,0 +1,6 @@
+../src/StepMotor.c:43:6:stepmotor_move	16	static
+../src/StepMotor.c:77:6:stepmotor_config_pin	16	static
+../src/StepMotor.c:93:6:stepmotor_config_timer	8	static
+../src/StepMotor.c:112:6:stepmotor_init	24	static
+../src/StepMotor.c:132:6:stepmotor_start_move	16	static
+../src/StepMotor.c:147:5:is_stepmotor_in_rotation	4	static

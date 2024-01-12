@@ -1,0 +1,8 @@
+/home/franco/Documentos/Trabajo Final/CMSISv2p00_LPC17xx/inc/core_cm3.h:928:22:NVIC_EnableIRQ	16	static
+../src/WaterSensor.c:27:6:watersensor_handler	16	static
+../src/WaterSensor.c:39:6:watersensor_config_pin	8	static
+../src/WaterSensor.c:50:6:watersensor_config_adc	8	static
+../src/WaterSensor.c:59:6:watersensor_init	16	static
+../src/WaterSensor.c:69:6:watersensor_adc_decode_channel	4	static
+../src/WaterSensor.c:124:6:watersensor_start_measuring	8	static
+../src/WaterSensor.c:130:10:watersensor_read	16	static

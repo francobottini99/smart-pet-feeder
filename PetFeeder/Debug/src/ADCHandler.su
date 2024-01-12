@@ -1,0 +1,4 @@
+/home/franco/Documentos/Trabajo Final/CMSISv2p00_LPC17xx/inc/core_cm3.h:941:22:NVIC_DisableIRQ	16	static
+../src/ADCHandler.c:15:6:ADC_IRQHandler	16	static
+../src/ADCHandler.c:70:5:adc_add_handler	16	static
+../src/ADCHandler.c:106:5:adc_remove_handler	16	static
